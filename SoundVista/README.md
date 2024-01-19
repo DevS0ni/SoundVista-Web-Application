@@ -1,6 +1,6 @@
 ## Project Description
-Project Description:
-SoundVista is a dynamic web application developed with Node.js, Express, and PostgreSQL, featuring an engaging user interface powered by Handlebars (hbs) for seamless content rendering.
+
+*SoundVista* is a dynamic web application developed with Node.js, Express, and PostgreSQL, featuring an engaging user interface powered by Handlebars (hbs) for seamless content rendering.
 
 The application provides an immersive platform for exploring and managing music-related content, including albums, songs, and genres. Cloudinary integration enhances media asset handling, while user registration, secure login, and login history tracking contribute to a comprehensive user experience. PostgreSQL serves as the robust backend database, ensuring efficient data storage and retrieval. SoundVista invites users to discover, upload, and enjoy a diverse collection of musical content.
 
