@@ -18,7 +18,7 @@ Cloudinary
 I declare that the code in this repository is entirely my own work.
 
 NOTE: For others, this repo can be a good reference, if someone wants to learn &
-understand the aspects of Web Programming and its FrameWorks and it's topic but must not copy the
+understand the aspects of Web Programming and its FrameWorks but must not copy the
 work completed by me!
 ```
 
